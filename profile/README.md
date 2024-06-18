@@ -6,8 +6,6 @@ Recout (Recomendation Outfit) App is an application that is useful for providing
 
 ## Team Id: C241-PS139
 
-
-
 **Team Member:**
 |          Nama         | Bangkit-ID |       Path       |
 |:---------------------:|:----------:|:----------------:|
@@ -19,13 +17,6 @@ Recout (Recomendation Outfit) App is an application that is useful for providing
 |  Anmar Tiara Simorangkir  |  A252D4KY3426  |  Mobile Development  |
 |  Adi Setiadi Putra  |  A118D4KY4212  |  Mobile Development  |
 
-- (ML) M006D4KY1893 – Satrio Mangkunegoro – Universitas Brawijaya
-- (ML) M006D4KY2356 – Raka Febrian Alfarizi – Universitas Brawijaya
-- (ML) M006D4KY2437 – Muhammad Ilyasa Rafi Azhar – Universitas Brawijaya
-- (CC) C118D4KX1163 – Rina Setiyaningsih – Institut Teknologi Perusahaan Listrik Negara
-- (CC)  C118D4KX1182 – Amalia Damayanti Husaini  – Institut Teknologi Perusahaan Listrik Negara
-- (MD) A252D4KY3426 – Anmar Tiara Simorangkir – Universitas Maritim Raja Ali Haji (UMRAH)
-- (MD) A118D4KY4212 – Adi Setiadi Putra – Institut Teknologi Perusahaan Listrik Negara
 
 **Theme:** 
 Fusion Unleashed: Art, Entertainment, and Media Transformation
